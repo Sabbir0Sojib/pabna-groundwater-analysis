@@ -4,7 +4,7 @@
 This project visualizes groundwater level variations in Pabna District, Bangladesh. Using monitoring well data and Python geospatial libraries, I created continuous depth models to identify areas of water depletion.
 
 ##  Key Map
-![Groundwater Map](Pabna_Fixed_Layout.png)
+![Pabna_Fixed_Layout.png](Pabna_Fixed_Layout.png)
 
 ##  Technical Methodology
 - **Interpolation:** Used **Radial Basis Function (RBF)** to predict water levels in unmeasured locations, creating a smooth surface that covers the entire district.
@@ -18,3 +18,4 @@ This project visualizes groundwater level variations in Pabna District, Banglade
 ---
 *Author: [Md Sabbir Islam]*
 *Data Source: Bangladesh Water Development Board (BWDB)*
+
